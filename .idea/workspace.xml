@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a68a45d2-81a0-4b85-80c5-b22700602f40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/eleventy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/fixtures/example.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/plugins/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/support/commands.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/support/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="a68a45d2-81a0-4b85-80c5-b22700602f40" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +9,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597977984461</updated>
-      <workItem from="1597977985603" duration="1179000" />
+      <workItem from="1597977985603" duration="1415000" />
     </task>
     <servers />
   </component>
